@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "file": "zepto",
+  "version": "0.1.0",
+  "description": "demo",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jasmine": "~0.6.3",
+    "grunt-template-jasmine-requirejs": "^0.2.3"
+  }
+}
