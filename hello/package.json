@@ -1,0 +1,23 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "chromedriver": "^2.12.0",
+    "express": "3.5.3",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jasmine": "~0.6.3",
+    "grunt-template-jasmine-requirejs": "^0.2.3",
+    "jade": "*",
+    "jasmine": "^2.3.2",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.61.0"
+  },
+  "devDependencies": {
+    "grunt-jasmine-node": "^0.3.1",
+    "grunt-webdriver": "^0.5.2"
+  }
+}
